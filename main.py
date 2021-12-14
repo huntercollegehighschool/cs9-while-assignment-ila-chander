@@ -21,3 +21,6 @@ elif program == '4':
   import part4
 elif program == '5':
   import part5
+
+
+  #i'm sorry it is 2am and as i have been working on this for around two hours and i am still not done i will be giving up for now
