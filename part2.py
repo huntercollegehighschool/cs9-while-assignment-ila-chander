@@ -11,3 +11,18 @@ Hunter
 Hunter
 
 '''
+
+x = int(input("enter a number: "))
+y = 0 
+while x>0:
+  print("hunter")
+  y+=1
+  if y >= x:
+    break 
+
+
+#OR! 
+'''
+for i in range(x):
+  print("hunter")
+'''
